@@ -1,6 +1,6 @@
 # Nicholas Alexander Gonzalez's Programming Portfolio
 
-### Computer Programming 1 projects from Skyline High School in the 2017-2018 school year
+#### Computer Programming 1 projects from Skyline High School in the 2017-2018 school year
 
 ### Markdown
 
