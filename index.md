@@ -5,7 +5,7 @@
 ### Contact Info
 
 
-School: Skyline High School
+#### School: Skyline High School
 
 #### High School Graduation Date: 2019
 #### College Graduation Date: 2023
