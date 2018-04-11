@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Nicholas Alexander Gonzalez Garcia's Programming Portfolio
 
-You can use the [editor on GitHub](https://github.com/Cubasian5/Programming_1_2017-2018_/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computer Programming 1 projects from Skyline High School in the 2017-2018 school year
 
 ### Markdown
 
