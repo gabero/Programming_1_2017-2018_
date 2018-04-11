@@ -2,7 +2,7 @@
 
 ## Computer Programming 1 projects from Skyline High School in the 2017-2018 school year
 
-### Contact Info
+### **Contact Info**
 
 
 #### School: Skyline High School
