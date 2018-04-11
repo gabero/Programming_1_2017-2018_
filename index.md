@@ -10,6 +10,6 @@
 #### High School Graduation Date: 2019
 #### College Graduation Date: 2023
 
-#### Email: nichgonz9644@granitesd.org
+#### Email: mailto:nichgonz9644@granitesd.org
 
 
