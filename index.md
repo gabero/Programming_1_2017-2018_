@@ -33,9 +33,9 @@ the purpose of this application is to find the Surface Area as well as the Volum
 + [Box Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Box.java)
 + ![Pyramid Image](https://github.com/Cubasian5/Programming_1_2017-2018/raw/master/ShapeTester/Pyramid.png "Example of Running Pyramid Code")
 + [Pyramid Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Pyramid.java)
-+ ![Sphere Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Sphere.png "Example of Running Sphere Code")
++ ![Sphere Image](https://raw.githubusercontent.com/Cubasian5/Programming_1_2017-2018/master/ShapeTester/Sphere.png "Example of Running Sphere Code")
 + [Sphere Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Sphere.java)
-+ ![Shapetester Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/ShapeTester.png "Example of Running Master Code")
++ ![Shapetester Image](https://raw.githubusercontent.com/Cubasian5/Programming_1_2017-2018/master/ShapeTester/ShapeTester.png "Example of Running Master Code")
 + [Shapetester Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/ShapeTester.java)
 
 ### Calculator
