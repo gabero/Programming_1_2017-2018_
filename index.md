@@ -37,3 +37,7 @@ the purpose of this application is to find the Surface Area as well as the Volum
 + [Sphere Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Sphere.java)
 + ![Shapetester Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/ShapeTester.png "Example of Running Master Code")
 + [Shapetester Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/ShapeTester.java)
+
+### Calculator
+
+The purpose of this application is a real functioning calculator. It has the 5 simple calculations as well as some more advanced ones such as square root, square function, percent function, sin, cosine, and tangent. A cool feature is the wood changing texture as you hover over it.
