@@ -45,4 +45,4 @@ The purpose of this application is a real functioning calculator. It has the 5 s
 + [Button Class Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/CalculatorCode/Calculator_code_k/Button.pde)
 + [Calculator Main File](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/CalculatorCode/Calculator_code_k/Calculator_code_k.pde)
 + [Data](https://github.com/Cubasian5/Programming_1_2017-2018/tree/master/CalculatorCode/Calculator_code_k/data)
-...This data is the images for the calculator to render the correct wooden textures :D
++ This data is the images for the calculator to render the correct wooden textures :D
