@@ -50,7 +50,7 @@ The purpose of this application is a real functioning calculator. It has the 5 s
 
 ### Screensaver 
 
-The purpose of this program is to make a screensaver for your computer. All you have to do it import it into your computer and your done. In the code you can aslo edit the color if you want a different color.
+The purpose of this program is to make a screensaver for your computer. The lines randommly move arcoss the entire screen. All you have to do it import it into your computer and your done. In the code you can aslo edit the color if you want a different color.
 
 + [Lines class](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/screen_saver_app_code/Lines.pde)
 + [ScreenSaver Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/screen_saver_app_code/screen_saver_app_code.pde)
