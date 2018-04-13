@@ -29,11 +29,11 @@ The purpose of this application was to take any word and convert it into PigLati
 
 the purpose of this application is to find the Surface Area as well as the Volume for 3 different shapes: A Cube, A Pyramid, and a Sphere.
 
-+ [Box Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Box.png)
++ ![Box Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Box.png "Example of Running Box Code")
 + [Box Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Box.java)
-+ [Pyramid Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Pyramid.png)
++ ![Pyramid Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Pyramid.png "Example of Running Pyramid Code")
 + [Pyramid Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Pyramid.java)
-+ [Sphere Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Sphere.png)
++ ![Sphere Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Sphere.png "Example of Running Sphere Code")
 + [Sphere Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Sphere.java)
-+ [Shapetester Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/ShapeTester.png)
++ ![Shapetester Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/ShapeTester.png "Example of Running Master Code")
 + [Shapetester Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/ShapeTester.java)
