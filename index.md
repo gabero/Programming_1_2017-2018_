@@ -23,7 +23,7 @@
 The purpose of this application was to take any word and convert it into PigLatin. It took all rules into excepetion for PigLatin rules such as, when it starts with a vowel it does not move the vowel to the end and add -ay.
 
 + [Code](https://github.com/Cubasian5/PigLatin/blob/master/src/PigLatin.java)
-+ ![PigLatin Image](https://github.com/Cubasian5/raw/master/PigLatin/PigLatin.png "Example of Runing Program")
++ ![PigLatin Image](https://raw.githubusercontent.com/Cubasian5/PigLatin/master/PigLatin.png "Example of Runing Program")
 
 ### Shapetester
 
@@ -31,7 +31,7 @@ the purpose of this application is to find the Surface Area as well as the Volum
 
 + ![Box Image](https://github.com/Cubasian5/Programming_1_2017-2018/raw/master/ShapeTester/Box.png "Example of Running Box Code")
 + [Box Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Box.java)
-+ ![Pyramid Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Pyramid.png "Example of Running Pyramid Code")
++ ![Pyramid Image](https://github.com/Cubasian5/Programming_1_2017-2018/raw/master/ShapeTester/Pyramid.png "Example of Running Pyramid Code")
 + [Pyramid Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Pyramid.java)
 + ![Sphere Image](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Sphere.png "Example of Running Sphere Code")
 + [Sphere Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/ShapeTester/Code/Sphere.java)
