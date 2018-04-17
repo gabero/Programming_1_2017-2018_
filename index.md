@@ -55,3 +55,12 @@ The purpose of this program is to make a screensaver for your computer. The line
 + [Lines class](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/screen_saver_app_code/Lines.pde)
 + [ScreenSaver Code](https://github.com/Cubasian5/Programming_1_2017-2018/blob/master/screen_saver_app_code/screen_saver_app_code.pde)
 + ![ScreenSaver Fullscreen Image](https://raw.githubusercontent.com/Cubasian5/Programming_1_2017-2018/master/screen_saver_app_code/Screen%20Shot%202018-04-13%20at%201.51.30%20PM.png "This covers the entire screen")
+
+### THINE SPACESHIP GAME
+
+This is a game in which you are a spaceship with omnidirectional movement and are trying to dodge Bullets and closing walls from the alien spaceship. You have three lives and can get more with powerups. This was a group code in which me, Daniel Del Canto, Nate Payne, and Silvio Santini designed and codded this game.
+
++ [ALL THE CODE MAKE SURE TO HAVE CLASES CORRECTLY](https://github.com/godofdeathftw/Spaceship-Shooter/tree/master/Game)
++ [IMAGES FOR THE CODE](https://github.com/godofdeathftw/Spaceship-Shooter/tree/master/Game/data)
++ [GUI MOCKUP](https://raw.githubusercontent.com/Cubasian5/Programming_1_2017-2018/master/36695422-8c9c630c-1afe-11e8-9d4d-e2f0022949b5.png "EXAMPLE OF WHAT GAME SHOULD LOOK LIKE")
++ [RUNNING APPLICATION IMAGE](https://raw.githubusercontent.com/Cubasian5/Programming_1_2017-2018/master/38640418-71fee262-3d91-11e8-979f-ec8e61fca1e3.png "WHAT GAME ACTUALLY LOOKS LIKE")
